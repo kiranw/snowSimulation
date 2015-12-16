@@ -1,0 +1,2 @@
+/home/maschka/6837/snowSimulation/src/src/CMakeFiles/a3.dir
+/home/maschka/6837/snowSimulation/src/vecmath/CMakeFiles/vecmath.dir
